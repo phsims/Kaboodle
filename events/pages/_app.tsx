@@ -1,5 +1,6 @@
 import { AppProps } from 'next/app';
 import Head from 'next/head';
+import { Container } from "@mui/material";
 import './styles.css';
 
 function CustomApp({ Component, pageProps }: AppProps) {
@@ -9,7 +10,9 @@ function CustomApp({ Component, pageProps }: AppProps) {
         <title>Welcome to events!</title>
       </Head>
       <main className="app">
-        <Component {...pageProps} />
+        <Container>
+          <Component {...pageProps} />
+        </Container>
       </main>
     </>
   );

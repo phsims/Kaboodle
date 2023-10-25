@@ -1,0 +1,62 @@
+[
+    {
+        "eventID": "1",
+        "name": "Event 1",
+        "description": "Description for Event 1 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sapien augue, facilisis eget neque a, luctus pharetra tellus. Aliquam mattis ante a lectus suscipit, non rhoncus dolor euismod.",
+        "location": "City Park",
+        "date": "2023-10-25T15:00:00",
+        "organizer": "Organizer 1",
+        "ticketTypes": [
+            "General Admission",
+            "VIP"
+        ]
+    },
+    {
+        "eventID": "2",
+        "name": "Event 2",
+        "description": "Description for Event 2 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sapien augue, facilisis eget neque a, luctus pharetra tellus. Aliquam mattis ante a lectus suscipit, non rhoncus dolor euismod.",
+        "location": "Downtown Arena",
+        "date": "2023-11-05T18:30:00",
+        "organizer": "Organizer 2",
+        "ticketTypes": [
+            "Standard",
+            "Premium"
+        ]
+    },
+    {
+        "eventID": "3",
+        "name": "Event 3",
+        "description": "Description for Event 3 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sapien augue, facilisis eget neque a, luctus pharetra tellus. Aliquam mattis ante a lectus suscipit, non rhoncus dolor euismod.",
+        "location": "Beach Resort",
+        "date": "2023-12-10T12:00:00",
+        "organizer": "Organizer 3",
+        "ticketTypes": [
+            "Standard",
+            "VIP"
+        ]
+    },
+    {
+        "eventID": "4",
+        "name": "Event 4",
+        "description": "Description for Event 4 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sapien augue, facilisis eget neque a, luctus pharetra tellus. Aliquam mattis ante a lectus suscipit, non rhoncus dolor euismod.",
+        "location": "Historic Theater",
+        "date": "2024-01-15T17:30:00",
+        "organizer": "Organizer 4",
+        "ticketTypes": [
+            "Standard",
+            "Premium"
+        ]
+    },
+    {
+        "eventID": "5",
+        "name": "Event 5",
+        "description": "Description for Event 5 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sapien augue, facilisis eget neque a, luctus pharetra tellus. Aliquam mattis ante a lectus suscipit, non rhoncus dolor euismod.",
+        "location": "Stadium",
+        "date": "2024-02-20T14:00:00",
+        "organizer": "Organizer 5",
+        "ticketTypes": [
+            "General Admission",
+            "VIP"
+        ]
+    }
+]

@@ -63,6 +63,10 @@
       "options": {
         "lintFilePatterns": ["events/**/*.{ts,tsx,js,jsx}"]
       }
+    },
+    "docker-build": {
+      "dependsOn": ["build"],
+      "command": "docker build -f events/Dockerfile . -t events"
     }
   },
   "tags": []

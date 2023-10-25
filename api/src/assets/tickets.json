@@ -1,0 +1,92 @@
+[
+    {
+        "ticketTypeID": "1",
+        "name": "General Admission",
+        "price": 50.00,
+        "quantity": 500,
+        "eventID": "1",
+        "bookingFee": 2.50,
+        "noAvaliable": 5
+    },
+    {
+        "ticketTypeID": "2",
+        "name": "VIP",
+        "price": 100.00,
+        "quantity": 100,
+        "eventID": "1",
+        "bookingFee": 2.00,
+        "noAvaliable": 10
+    },
+    {
+        "ticketTypeID": "3",
+        "name": "Standard",
+        "price": 75.00,
+        "quantity": 300,
+        "eventID": "2",
+        "bookingFee": 2.50,
+        "noAvaliable": 2
+    },
+    {
+        "ticketTypeID": "4",
+        "name": "Premium",
+        "price": 150.00,
+        "quantity": 50,
+        "eventID": "2",
+        "bookingFee": 3.50,
+        "noAvaliable": 0
+    },
+    {
+        "ticketTypeID": "5",
+        "name": "Regular",
+        "price": 30.00,
+        "quantity": 400,
+        "eventID": "3",
+        "bookingFee": 3.50,
+        "noAvaliable": 0
+    },
+    {
+        "ticketTypeID": "6",
+        "name": "VIP",
+        "price": 80.00,
+        "quantity": 80,
+        "eventID": "3",
+        "bookingFee": 2.00,
+        "noAvaliable": 5
+    },
+    {
+        "ticketTypeID": "7",
+        "name": "Early Bird",
+        "price": 40.00,
+        "quantity": 100,
+        "eventID": "4",
+        "bookingFee": 2.50,
+        "noAvaliable": 15
+    },
+    {
+        "ticketTypeID": "8",
+        "name": "Premium",
+        "price": 120.00,
+        "quantity": 30,
+        "eventID": "4",
+        "bookingFee": 4.50,
+        "noAvaliable": 25
+    },
+    {
+        "ticketTypeID": "9",
+        "name": "General Admission",
+        "price": 40.00,
+        "quantity": 600,
+        "eventID": "5",
+        "bookingFee": 4.50,
+        "noAvaliable": 7
+    },
+    {
+        "ticketTypeID": "10",
+        "name": "VIP",
+        "price": 90.00,
+        "quantity": 120,
+        "eventID": "5",
+        "bookingFee": 2.50,
+        "noAvaliable": 5
+    }
+]
